@@ -76,9 +76,11 @@ cypress/
 📸 Evidências
 Você pode adicionar prints de tela ou vídeos gerados pelo Cypress aqui.
 
-✍️ Autor
-Marcia Magalhães
-🔗 LinkedIn
-💻 GitHub
+## ✍️ Autor
+
+**[Marcia Magalhães](https://www.linkedin.com/in/marciamagax/)**  
+🔗 [Perfil no LinkedIn](https://www.linkedin.com/in/marciamagax/)  
+💻 [GitHub](https://github.com/MarciaMagaX)
+
 
 Este projeto é apenas para fins de aprendizado. A página de testes pertence à equipe Cypress.io.
