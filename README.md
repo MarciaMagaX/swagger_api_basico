@@ -50,7 +50,7 @@ O foco principal é a simulação de um sistema de gerenciamento de contas, aute
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/seu-usuario/nome-do-projeto.git)
+   git clone [git@github.com:MarciaMagaX/swagger_api_basico.git](git@github.com:MarciaMagaX/swagger_api_basico.git)
 Abra no IntelliJ:
 
 Vá em File > Open e selecione a pasta do projeto.
@@ -74,4 +74,4 @@ Headers: Uso de headers customizados (token) para simular a validação de sess�
 
 Status Codes: Uso rigoroso dos códigos de status HTTP para representar o sucesso ou falha das operações.
 
-⭐ Projeto desenvolvido para fins didáticos por [Seu Nome].
+⭐ Projeto desenvolvido para fins didáticos por Marcia Xavier.
